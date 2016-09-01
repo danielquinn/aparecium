@@ -14,7 +14,7 @@ This script lets me run a tiny webserver locally that when queried, does some
 mechanize-gymnastics to log into Wordpress and fetch the feed I want.
 
 
-# How to Use It
+## How to Use It
 
 It's a typical Flask project:
 
