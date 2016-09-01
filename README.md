@@ -23,6 +23,8 @@ It's a typical Flask project:
   URL(s) of the blog(s) you want to read, and the username/password you'll
   have to use for each.
 * Run `python aparecium.py`
+* Put this URL into your feed reader: `http://127.0.0.1:5000/my-friend`
+  where `my-friend` is the name you gave in `config.json`.
 
 
 ## Colophon
