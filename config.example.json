@@ -1,0 +1,12 @@
+{
+    "my-friend": {
+        "url": "https://myfriend.wordpress.com/feed/",
+        "username": "my-username",
+        "password": "my-password",
+    },
+    "my-other-friend": {
+        "url": "https://myotherfriend.wordpress.com/feed/",
+        "username": "my-username",
+        "password": "my-password",
+    }
+}
